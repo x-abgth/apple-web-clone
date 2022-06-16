@@ -1,13 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
 
 :root {
-
-	color-scheme: dark light;
-
-	/*Default paddings*/
-	--hPad: 50px;
-	--vPad: 20px;
-
 	/*Basic Colors*/
 	--primaryColor: #fbfbfd;
 	--footerBgColor: #F5F5F7;
@@ -15,9 +8,6 @@
 	--footerFontColor: #6e6e73;
 	--footerLinkColor: #424245;
 	--linkColor: #06c;
-
-	/* Dark theme */
-	--darkBg: #161616;
 }
 
 *, html {
