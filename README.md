@@ -1,5 +1,5 @@
 # Apple web application clone
-This is a clone application of apple website, made for educational purpose only.
+This is a clone application of [Apple](https://www.apple.com/) website, made for educational purpose only.
 <br><br>
 >This application is only developed on front end and currently not responsive.
 
