@@ -1,5 +1,7 @@
 # Apple web application clone
 This is a clone application of [Apple](https://www.apple.com/) website, made for educational purpose only.
+
+## See live demo [**HERE**](https://x-abgth.github.io/apple-web-clone/lib/)
 <br><br>
 >This application is only developed on front end and currently not responsive.
 
